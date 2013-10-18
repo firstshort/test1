@@ -1,2 +1,4 @@
 this is the base t2:wq
+new line after add but b4 commit
+adding a line not added yet
 
